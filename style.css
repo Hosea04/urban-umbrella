@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-image: url('p-pics/pexels-israelzin-oliveira-3691227.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vp;
+}
