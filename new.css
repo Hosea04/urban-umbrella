@@ -8,6 +8,7 @@
     background-size: cover;
     background-position: center;
     height: 100vh;
+    text-align: center;
 }
 .container{
     line-height: 1.6;
@@ -20,8 +21,22 @@
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
     font-size: 32px;
+    line-height: 1.2;
 }
 .container p{
     font-size: 27px;
     color: aqua;
+}
+.button{
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    border: white 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.button:hover{
+    background: cyan;
+    color: darkgreen;
 }
