@@ -54,7 +54,10 @@ a .active,a:hover{
     background-color: white;
     margin: 4px;
 }
-
+.about{
+    align-content: center;
+    justify-items: ;
+}
 }
  @media screen and (max-width:1024px){
      .nav-links{
